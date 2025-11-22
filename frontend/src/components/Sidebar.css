@@ -1,0 +1,26 @@
+.sidebar {
+  width: 220px;
+  min-height: 100vh;
+  background: #111827;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.sidebar a {
+  display: block;
+  margin-bottom: 14px;
+  color: #9ca3af;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.sidebar a:hover {
+  color: white;
+}
+
+.sidebar-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
