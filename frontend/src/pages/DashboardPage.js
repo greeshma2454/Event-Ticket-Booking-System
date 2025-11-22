@@ -107,7 +107,7 @@ function Card({ title, value, color }) {
     >
       <div style={{ fontSize: "18px", opacity: 0.9 }}>{title}</div>
       <div style={{ fontSize: "26px", marginTop: 6 }}>{value}</div>
-    </div>
+    </div> 
   );
 }
 
