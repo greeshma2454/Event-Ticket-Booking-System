@@ -24,7 +24,8 @@ import BuyTicketPage from "./pages/BuyTicketPage";
 import UserBookingsPage from "./pages/UserBookingsPage";
 import UserPaymentsPage from "./pages/UserPaymentsPage";
 
-// Organizer pages (NEW)
+// Organizer pages (NEW).//
+
 import OrganizerDashboardPage from "./pages/OrganizerDashboardPage";
 import OrganizerEventsPage from "./pages/OrganizerEventsPage";
 
