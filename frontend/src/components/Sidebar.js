@@ -36,7 +36,7 @@ export default function Sidebar() {
         padding: 16,
         boxSizing: "border-box",
       }}
-    >
+    > 
       <div style={{ marginBottom: 24 }}>
         <div style={{ fontSize: 18, fontWeight: 600 }}>Admin Panel</div>
         {user && (
